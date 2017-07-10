@@ -1,0 +1,142 @@
+.logo h1{
+	display:block;
+	padding-left: 30px;
+}
+#kepala1{
+	background-color: rgba(12, 12, 12, 0.36);
+	height: 80px;
+}
+.btn-file {
+	position: relative;
+	overflow: hidden;
+}
+#kepala {
+	background: url(../banner.jpg)no-repeat 0px 0px;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	-ms-background-size: cover;
+	min-height:400px;
+	position:relative;
+	background-color:none;  
+	width: 100%;
+	background-color: rgba(12, 12, 12, 0.36);
+}
+#tamu li{
+	display: inline-block;
+	float: right;
+	/*padding-right: 150px;*/
+	text-transform: uppercase;	
+}
+
+#member li {
+	display: inline-block;	
+	padding: 5px;
+	float: right;
+	padding-right: 150px;
+	text-transform: uppercase;		
+}
+.menu-atas{
+	padding-top: 20px;
+}
+.menu-atas li{
+	display: inline-block;
+	margin: 10px;
+	text-transform: uppercase;
+}
+.menu-atas li a{
+	color:#ffffff;
+	text-decoration:none;
+	display:block;
+	font-weight:400;
+	font-size: 14pt;
+}
+.thumbnail{
+	width: 200px;
+}
+.beranda h1{
+	font-color: #1ab9a7;
+}
+.kontak-group{
+	background-color: #02caba
+	color:#10e1b7;
+}
+.kontak-group .glyphicon{
+	display: block;
+	margin-right:10px;
+	font-size:35px;
+	
+}
+#kepala h1 {
+	color: white;
+	&:hover{
+		text-decoration:none;
+	}
+}
+#footer span{
+	color: #0beee6
+}
+
+#footer p{
+	color: #000000; 
+	text-align: center;
+}
+#beranda {
+	padding:4em 0;
+	text-align:center;
+}
+#beranda h3.tittle{
+	text-align:center;
+	color:#7dd4d9;
+	font-size: 40px;
+}
+.inst-grids {
+	margin: 3em 0 0 0;
+}
+a.hi-icon img {
+	margin: 10px 0 0;
+	width: 100%;
+}
+.hi-icon-wrap {
+	padding: 0;
+	width:25%;
+}
+.serv-text{
+	width:75%;
+	text-align:left;
+}
+.beranda-gd h4 {
+	color:#7dd4d9;
+	font-size: 1.4em;
+	text-transform: uppercase;
+	line-height: 1.2em;
+	font-family: 'Merriweather Sans', sans-serif;
+	font-weight: bold;
+	margin: 0.5em 0;
+}
+.beranda-gd p {
+	color: #777;
+	line-height: 1.9em;
+	font-size: 14px;
+}
+
+.touch-right-w3l{
+	height: 400px;
+	background:#5bcdc5;
+	padding:5em 1em;
+}
+.touch-right-w3l ul li{
+	display:block;
+	color:#fff;
+	font-size:16px;
+}
+.touch-right-w3l  .glyphicon{
+	margin-right:10px;
+	font-size:25px;
+	color:#fff;
+}
+
+.touch-right-w3l ul li a{
+	color:#fff;
+}
