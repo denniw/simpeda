@@ -1,6 +1,6 @@
 <?php 
 
-echo "Ini Index";
+echo "aku ubah";
 
 
  ?>
