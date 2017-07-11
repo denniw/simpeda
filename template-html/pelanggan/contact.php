@@ -1,40 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>SIMPEDA::Penyewaan</title>
-	<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css">
-	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
-</head>
-<body>
-	<div class="container-fluid">
-		<div class="row">
-			<div id="kepala">
-				<div id="kepala1">
-					<div class="logo col-sm-7">
-						<h1>SIMPEDA</h1>
-					</div>
-
-					<div class="menu-atas col-sm-5">
-						<ul>
-							<li>
-								<a href="home.html">Beranda</a>
-							</li>
-							<li>
-								<a href="penyewaan.html">Penyewaan</a>
-							</li>
-							<li>	
-								<a href="kontak.html">Kontak</a>
-							</li>
-							<li>
-								<a href="index.html">Logout</a>
-							</li>
-						</ul>
-					</div>
-				</div>
-			</div>
-		</div>
-
-		<div class="row">
+<div class="row">
 			<div class="col-md-8">
 				<form class="form-group">
 					<div class="container-fluid col-sm-10" id="pengaduan" >
@@ -110,7 +74,7 @@
 									<div class="col-xs-9 contact-grdr">
 										<ul>
 											<li><a href="mailto:simpeda@gmail.com">simpeda@gmail.com</a></li>
-											<li><a href="mailto:admin.simpeda@gmail.com">admin.simpeda@.com</a></li>
+											<li><a href="mailto:admin.simpeda@gmail.com">admin@simpeda.com</a></li>
 										</ul>
 									</div>
 									<div class="clearfix"> </div>
@@ -123,17 +87,3 @@
 				</div>
 				
 			</div>
-			
-			<!--footer-->
-			<div class="row">
-				<div class="col-sm-12">
-					<div class="text-center">
-						<div id="footer">
-							<p class="copy-right">&copy; 2016 Sistem Informasi. All rights reserved | Design by <span>Tim Biru Muda</span></p>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</body>
-	</html>
