@@ -1,8 +1,8 @@
 <?php 
 
 $host = "localhost";
-$dbname = "sisfonews";
+$dbname = "simpeda";
 $username = "root";
-$password = "'";
+$password = " ";
 
  ?>

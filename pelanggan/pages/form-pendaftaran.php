@@ -2,7 +2,7 @@
 			<div class="col-md-12">
 				<h1 class="page-header">Form Pendaftaran</h1>
 			</div>
-			<form id="form" class="form-horizontal" action="regist-success.html" method="get">
+			<form id="form" class="form-horizontal" action="regist-success.php" method="get">
 				<div class="form-group col-sm-8">
 					<label class="control-label col-sm-2" for="nama">Nama:</label>
 					<div class="col-sm-6">
