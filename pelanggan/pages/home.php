@@ -23,6 +23,7 @@
 				</div>
 				<div class="img-circle col-md-6 beranda-gd text-center">
 					<div class=" col-md-2">
+	
 						<a href="#" class="hi-icon"><img src="images/service3.png"></a>
 					</div>
 					<div class="col-md-10 serv-text">

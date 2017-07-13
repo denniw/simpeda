@@ -3,14 +3,14 @@ require_once 'View.php';
 /**
 * 
 */
-class PendaftaranUI extends View
+class PendaftaranUI extends ViewPelanggan
 {
 	
 	public function inputPelanggan()
 	{
 		include_once 'controller/PelangganControl.php';
 		$pdf = new PelangganControl();
-		$pesan = $pdf->setDataPelanggan();
+		$pesan = $pdf->inputPelanggan();
 		include_once 'pages/form-pendaftaran.php';
 		$this->end();
 	}
